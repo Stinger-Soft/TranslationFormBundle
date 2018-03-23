@@ -2,6 +2,7 @@
     "name": "stinger-soft/translation-form-bundle",
     "type": "symfony-bundle",
     "description": "Translate your doctrine objects easily with some helps",
+	"replace": "a2lix/translation-form-bundle",
     "keywords": [
         "symfony",
         "doctrine2",
