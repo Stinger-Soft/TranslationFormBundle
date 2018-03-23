@@ -1,5 +1,5 @@
 {
-    "name": "a2lix/translation-form-bundle",
+    "name": "stinger-soft/translation-form-bundle",
     "type": "symfony-bundle",
     "description": "Translate your doctrine objects easily with some helps",
     "keywords": [
@@ -28,7 +28,7 @@
     ],
     "require": {
         "php": "^5.6 || ^7.0",
-        "a2lix/auto-form-bundle": "@dev",
+        "stinger-soft/auto-form-bundle": "@dev",
         "symfony/config": "^2.8 || ^3.4 || ^4.0",
         "symfony/dependency-injection": "^2.8 || ^3.4 || ^4.0",
         "symfony/doctrine-bridge": "^2.8 || ^3.4 || ^4.0",
